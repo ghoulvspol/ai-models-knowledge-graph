@@ -14,7 +14,7 @@ from pathlib import Path
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 
 VAULT = Path(__file__).parent / "vault"
-OUT = Path(__file__).parent / "site"
+OUT = Path(__file__).parent / "docs"
 SITE_TITLE = "AI 模型知识图谱"
 SITE_LOGO = "AI"
 
@@ -39,7 +39,7 @@ CATEGORY_LABELS = {
 GA_MEASUREMENT_ID = ""
 
 # Base path for GitHub Pages deployment
-BASE_PATH = "/ai-models-knowledge-graph/site"
+BASE_PATH = "/ai-models-knowledge-graph/docs"
 
 # ── Step 1: Collect all markdown files ────────────────────────────────────────
 

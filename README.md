@@ -34,12 +34,12 @@ pip install pyyaml markdown
 python3 build_ai_models.py
 
 # 本地预览
-cd site && python3 -m http.server 8080
+cd docs && python3 -m http.server 8080
 ```
 
 ### 在线访问
 
-构建后的静态网站在 `site/` 目录，可直接部署到 GitHub Pages。
+构建后的静态网站在 `docs/` 目录，可直接部署到 GitHub Pages。
 
 ## 技术栈
 
@@ -68,7 +68,7 @@ ai-models-knowledge-graph/
 │   ├── people/           # 关键人物
 │   ├── benchmarks/       # 基准测试
 │   └── methods/          # 技术方法
-├── site/                 # 生成的静态网站（git ignore）
+├── docs/                 # 生成的静态网站（GitHub Pages）
 ├── assets/               # favicon 等资源
 ├── README.md
 └── .gitignore
