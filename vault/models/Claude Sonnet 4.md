@@ -5,6 +5,8 @@ aliases: ["Claude Sonnet 4", "claude-sonnet-4", "Sonnet 4"]
 
 # Claude Sonnet 4
 
+> **已弃用（Deprecated）**：[[Claude Sonnet 4]] 将于 **2026年6月15日** 正式退役。建议迁移至最新版本 [[Claude Sonnet 4.6]]。
+
 [[Claude Sonnet 4]] 是 [[Anthropic]] 于 **2025年5月22日** 发布的中端模型，定位为性能与速度的最佳平衡点，是 [[Claude 3.5 Sonnet]] 的正式升级。
 
 ## 核心参数

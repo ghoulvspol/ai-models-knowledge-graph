@@ -5,6 +5,8 @@ aliases: ["Claude Opus 4", "claude-opus-4", "Opus 4"]
 
 # Claude Opus 4
 
+> **已弃用（Deprecated）**：[[Claude Opus 4]] 将于 **2026年6月15日** 正式退役。建议迁移至最新旗舰模型 [[Claude Opus 4.8]]。
+
 [[Claude Opus 4]] 是 [[Anthropic]] 于 **2025年5月22日** 发布的旗舰推理模型，是 Claude 产品线中能力最强的模型，专为复杂推理和长时间自主任务设计。
 
 ## 核心参数
