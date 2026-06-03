@@ -39,7 +39,7 @@ CATEGORY_LABELS = {
 GA_MEASUREMENT_ID = ""
 
 # Base path for GitHub Pages deployment
-BASE_PATH = "/ai-models-knowledge-graph/docs"
+BASE_PATH = "/ai-models-knowledge-graph"
 
 # ── Step 1: Collect all markdown files ────────────────────────────────────────
 
